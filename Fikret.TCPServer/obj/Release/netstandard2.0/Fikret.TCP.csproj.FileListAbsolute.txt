@@ -1,0 +1,8 @@
+E:\repos\Fikret.UDPServer\Fikret.UDPServer\bin\Release\netstandard2.0\Fikret.TCP.deps.json
+E:\repos\Fikret.UDPServer\Fikret.UDPServer\bin\Release\netstandard2.0\Fikret.TCP.dll
+E:\repos\Fikret.UDPServer\Fikret.UDPServer\bin\Release\netstandard2.0\Fikret.TCP.pdb
+E:\repos\Fikret.UDPServer\Fikret.UDPServer\obj\Release\netstandard2.0\Fikret.TCP.AssemblyInfoInputs.cache
+E:\repos\Fikret.UDPServer\Fikret.UDPServer\obj\Release\netstandard2.0\Fikret.TCP.AssemblyInfo.cs
+E:\repos\Fikret.UDPServer\Fikret.UDPServer\obj\Release\netstandard2.0\Fikret.TCP.csproj.CoreCompileInputs.cache
+E:\repos\Fikret.UDPServer\Fikret.UDPServer\obj\Release\netstandard2.0\Fikret.TCP.dll
+E:\repos\Fikret.UDPServer\Fikret.UDPServer\obj\Release\netstandard2.0\Fikret.TCP.pdb

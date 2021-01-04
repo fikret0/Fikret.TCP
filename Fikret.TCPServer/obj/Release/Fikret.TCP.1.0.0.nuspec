@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Fikret.TCP</id>
+    <version>1.0.0</version>
+    <authors>Fikret Musk</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE.md</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>icon.png</icon>
+    <projectUrl>https://github.com/fikret0/Fikret.TCP/</projectUrl>
+    <description>A basic TCP Server.</description>
+    <copyright>Antares Enterprise</copyright>
+    <tags>31 TCP</tags>
+    <repository type="git" url="https://github.com/fikret0/Fikret.TCP.git" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\repos\Fikret.UDPServer\Fikret.UDPServer\bin\Release\netstandard2.0\Fikret.TCP.dll" target="lib\netstandard2.0\Fikret.TCP.dll" />
+    <file src="E:\repos\Fikret.UDPServer\Fikret.UDPServer\icon.png" target="icon.png" />
+    <file src="E:\repos\Fikret.UDPServer\Fikret.UDPServer\LICENSE.md" target="LICENSE.md" />
+  </files>
+</package>

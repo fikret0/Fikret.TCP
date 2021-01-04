@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Fikret Musk</Authors>
+    <Company>Antares Enterprise</Company>
+    <Description>A basic TCP Server.</Description>
+    <Copyright>Antares Enterprise</Copyright>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <PackageIcon>icon.png</PackageIcon>
+    <RepositoryUrl>https://github.com/fikret0/Fikret.TCP.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>31 TCP</PackageTags>
+    <PackageProjectUrl>https://github.com/fikret0/Fikret.TCP/</PackageProjectUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="icon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="LICENSE.md">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

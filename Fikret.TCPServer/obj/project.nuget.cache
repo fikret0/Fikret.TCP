@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DgJiuBEf7ucUGCU5u0ZXOTHkSv1qgS7dNMbw6qywRoK3EDIB9Ay03xmF2+o22jOY8nF1d+rkuNmZ5tsWnkVIAw==",
+  "success": true,
+  "projectFilePath": "E:\\repos\\Fikret.UDPServer\\Fikret.UDPServer\\Fikret.TCP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fikret\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\fikret\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
