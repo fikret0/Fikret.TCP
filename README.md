@@ -1,3 +1,5 @@
+
+[![NuGet Version](https://img.shields.io/nuget/v/Fikret.TCP.svg?style=flat)](https://www.nuget.org/packages/Fikret.TCP/) [![NuGet](https://img.shields.io/nuget/dt/Fikret.TCP.svg)](https://www.nuget.org/packages/Fikret.TCP)
 # Fikret.TCP
  A basic TCP Server written in C#.
 
