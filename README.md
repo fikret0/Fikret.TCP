@@ -14,7 +14,7 @@ using Fikret.TCP;
 
 FikretTCPClient client = new FikretTCPClient();
 client.MessageReceived += MessageReceived;
-client.Start(10039);
+client.Connect("127.0.0.1" ,10039);
 client.Send("hi!");
 
 public void MessageReceived(object sender, MessageReceivedEventArgs args)
